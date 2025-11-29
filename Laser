@@ -98,7 +98,7 @@
     </div>
 
     <script>
-        const ESP_IP = "192.168.102.171";   // tu IP
+        const ESP_IP = "192.168.182.171";   // tu IP
         const WS_PORT = 81;
         let ws = null;
         let nipple = null;
